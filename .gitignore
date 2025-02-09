@@ -1,0 +1,6 @@
+.env
+venv
+key.json
+__pycache__
+.idea
+node_modules
